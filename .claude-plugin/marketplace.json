@@ -1,0 +1,13 @@
+{
+  "name": "pixel-pings",
+  "owner": {
+    "name": "DaKoshin"
+  },
+  "plugins": [
+    {
+      "name": "pixel-pings",
+      "source": "./",
+      "description": "8-bit notification sounds for Claude Code, without reminder pings while you are away."
+    }
+  ]
+}

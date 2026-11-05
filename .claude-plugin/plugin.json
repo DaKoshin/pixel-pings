@@ -1,0 +1,13 @@
+{
+  "name": "pixel-pings",
+  "version": "0.1.0",
+  "description": "8-bit notification sounds for Claude Code, without reminder pings while you are away.",
+  "author": {
+    "name": "DaKoshin",
+    "url": "https://github.com/DaKoshin"
+  },
+  "homepage": "https://github.com/DaKoshin/pixel-pings",
+  "repository": "https://github.com/DaKoshin/pixel-pings",
+  "license": "MIT",
+  "keywords": ["sounds", "notifications", "chiptune", "8-bit", "hooks"]
+}
