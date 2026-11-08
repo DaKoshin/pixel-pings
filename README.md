@@ -34,6 +34,15 @@ claude plugin install pixel-pings --marketplace DaKoshin/pixel-pings
 
 In the desktop app, click **+** next to the prompt box, then **Plugins**, **Add marketplace** with `DaKoshin/pixel-pings`, then **Add plugin**.
 
+## Update
+
+What changed in each version is listed in the [latest release](https://github.com/DaKoshin/pixel-pings/releases/latest) and on the [releases page](https://github.com/DaKoshin/pixel-pings/releases). To update an installed plugin from a shell:
+
+```sh
+claude plugin marketplace update pixel-pings
+claude plugin update pixel-pings@pixel-pings
+```
+
 ## Configure
 
 Ask Claude in your own words, or run `/pixel-pings:setup`. It can:

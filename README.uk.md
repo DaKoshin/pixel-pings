@@ -34,6 +34,15 @@ claude plugin install pixel-pings --marketplace DaKoshin/pixel-pings
 
 У застосунку для комп'ютера натисни **+** біля поля введення, потім **Plugins**, **Add marketplace** з `DaKoshin/pixel-pings`, а далі **Add plugin**.
 
+## Оновлення
+
+Що змінилося в кожній версії, описано в [останньому релізі](https://github.com/DaKoshin/pixel-pings/releases/latest) і на [сторінці релізів](https://github.com/DaKoshin/pixel-pings/releases). Щоб оновити встановлений плагін, виконай у шелі:
+
+```sh
+claude plugin marketplace update pixel-pings
+claude plugin update pixel-pings@pixel-pings
+```
+
 ## Налаштування
 
 Попроси Claude своїми словами або виконай `/pixel-pings:setup`. Скіл уміє:
