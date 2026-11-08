@@ -14,6 +14,8 @@
 
 Claude Code also sends a reminder after about a minute of waiting for you. Pixel Pings stays silent on that one, so a finished task gets one sound rather than a second ping while you are away.
 
+When Claude runs subagents in the background, its turn can end while they are still working and resume as each one reports back. Pixel Pings stays silent on those in-between turns and plays `done` once, after the last subagent has finished.
+
 ## Install
 
 At the prompt of a Claude Code terminal session:

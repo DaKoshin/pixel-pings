@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "sh \"${CLAUDE_PLUGIN_ROOT}/scripts/play.sh\" done",
+            "command": "sh \"${CLAUDE_PLUGIN_ROOT}/scripts/play.sh\" done --stop-hook",
             "async": true
           }
         ]

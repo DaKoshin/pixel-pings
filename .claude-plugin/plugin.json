@@ -1,6 +1,6 @@
 {
   "name": "pixel-pings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "8-bit notification sounds for Claude Code, without reminder pings while you are away.",
   "author": {
     "name": "DaKoshin",

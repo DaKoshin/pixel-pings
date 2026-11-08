@@ -15,7 +15,7 @@ Name each sound before playing it, so the person knows which is which:
 
 | Sound | Plays when |
 |---|---|
-| `done` | Claude finishes a turn |
+| `done` | Claude finishes a turn, waiting for any background subagents to finish first |
 | `attention` | Claude needs a permission or an answer |
 | `limit` | a turn stops on a rate limit |
 
